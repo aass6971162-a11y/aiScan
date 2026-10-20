@@ -1,0 +1,19 @@
+{
+  "upstream_commit": "026782ddc8488679522c16cdb38c223b4fc3934e",
+  "upstream_module_sha256": "320f460edc54cf830dfdd9788dfbc1b96a836429b64ed6078a30582be6f59e42",
+  "corner_shape": [
+    1,
+    4,
+    128,
+    128
+  ],
+  "grid_shape": [
+    1,
+    2,
+    45,
+    31
+  ],
+  "torch_ort_max_abs_error": 1.430511474609375e-06,
+  "uvdoc_onnx_sha256": "e748175c085bab34c19ff5c6af47f074086ed4099f6f3ff17373aeb662718f16",
+  "fixture_source": "DocAligner 1.1.1 docs/run_test_card.jpg (Apache-2.0)"
+}

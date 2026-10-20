@@ -1,0 +1,13 @@
+DocAligner 1.1.1
+Copyright DocsaidLab / Docsaid
+https://github.com/DocsaidLab/DocAligner/releases/tag/1.1.1
+Licensed under Apache License 2.0; see DocAligner-LICENSE.txt.
+The LCNet100 ONNX graph is distributed unmodified.
+
+UVDoc
+Copyright (c) 2023 Tanguy MAGNE
+https://github.com/tanguymagne/UVDoc/tree/026782ddc8488679522c16cdb38c223b4fc3934e
+Licensed under MIT; see UVDoc-LICENSE.txt.
+App adaptation: exported FP32 ONNX opset17 containing only the 2D grid head.
+Original checkpoint and source hashes are recorded in manifest.json and
+training/numerical_report.json. The native 45x31 grid is retained.
